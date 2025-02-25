@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\erenay\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\erenay\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\erenay\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\erenay\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\erenay\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\erenay\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\erenay\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\erenay\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\erenay\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\erenay\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\erenay\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\erenay\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\wwwroot\\home\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\wwwroot\\home\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|c:\\users\\erenay\\desktop\\e-ticaret\\e-ticaret\\e-ticaret\\wwwroot\\admin\\blank.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F90C5391-6A8E-4D00-B660-A45DF185C7E0}|E-Ticaret\\E-Ticaret.csproj|solutionrelative:e-ticaret\\wwwroot\\admin\\blank.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,75 +43,93 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Program.cs",
-              "RelativeDocumentMoniker": "E-Ticaret\\Program.cs",
-              "ToolTip": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Program.cs",
-              "RelativeToolTip": "E-Ticaret\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAkAAAA9AAAAAAAAAA==",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "E-Ticaret\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "E-Ticaret\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T22:38:14.951Z",
+              "WhenOpened": "2025-02-25T15:40:41.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "E-Ticaret\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "E-Ticaret\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "E-Ticaret\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "E-Ticaret\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T22:35:51.63Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "E-Ticaret\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\appsettings.Development.json",
-              "RelativeToolTip": "E-Ticaret\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAC1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-23T22:32:03.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "E-Ticaret\\Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Models\\Slider.cs",
-              "RelativeToolTip": "E-Ticaret\\Models\\Slider.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T22:11:06.083Z"
+              "WhenOpened": "2025-02-25T15:40:06.542Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Categories.cs",
-              "DocumentMoniker": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Models\\Categories.cs",
-              "RelativeDocumentMoniker": "E-Ticaret\\Models\\Categories.cs",
-              "ToolTip": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Models\\Categories.cs",
-              "RelativeToolTip": "E-Ticaret\\Models\\Categories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T22:07:48.533Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "E-Ticaret\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "E-Ticaret\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T15:35:36.757Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Products.cs",
-              "DocumentMoniker": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Models\\Products.cs",
-              "RelativeDocumentMoniker": "E-Ticaret\\Models\\Products.cs",
-              "ToolTip": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Models\\Products.cs",
-              "RelativeToolTip": "E-Ticaret\\Models\\Products.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAowBAAAABnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T22:04:47.392Z"
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\index.html",
+              "RelativeDocumentMoniker": "E-Ticaret\\wwwroot\\Home\\index.html",
+              "ToolTip": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\index.html",
+              "RelativeToolTip": "E-Ticaret\\wwwroot\\Home\\index.html",
+              "ViewState": "AgIAACcCAAAAAAAAAAAIwE8CAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-25T15:22:17.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "blank.html",
+              "DocumentMoniker": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Admin\\blank.html",
+              "RelativeDocumentMoniker": "E-Ticaret\\wwwroot\\Admin\\blank.html",
+              "ToolTip": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Admin\\blank.html",
+              "RelativeToolTip": "E-Ticaret\\wwwroot\\Admin\\blank.html",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAIwKcBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-25T15:20:17.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_HomeLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Views\\Shared\\_HomeLayout.cshtml",
+              "RelativeDocumentMoniker": "E-Ticaret\\Views\\Shared\\_HomeLayout.cshtml",
+              "ToolTip": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Views\\Shared\\_HomeLayout.cshtml",
+              "RelativeToolTip": "E-Ticaret\\Views\\Shared\\_HomeLayout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T15:20:06.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "E-Ticaret\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "E-Ticaret\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T15:19:47.655Z",
+              "EditorCaption": ""
             }
           ]
         }
