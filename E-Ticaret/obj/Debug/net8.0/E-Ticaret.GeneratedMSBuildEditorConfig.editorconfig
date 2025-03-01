@@ -28,6 +28,30 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/erenay/Desktop/E-Ticaret/E-Ticaret/E-Ticaret/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erenay/Desktop/E-Ticaret/E-Ticaret/E-Ticaret/Pages/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erenay/Desktop/E-Ticaret/E-Ticaret/E-Ticaret/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erenay/Desktop/E-Ticaret/E-Ticaret/E-Ticaret/Pages/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erenay/Desktop/E-Ticaret/E-Ticaret/E-Ticaret/Pages/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erenay/Desktop/E-Ticaret/E-Ticaret/E-Ticaret/Pages/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/erenay/Desktop/E-Ticaret/E-Ticaret/E-Ticaret/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,6 +70,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/erenay/Desktop/E-Ticaret/E-Ticaret/E-Ticaret/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erenay/Desktop/E-Ticaret/E-Ticaret/E-Ticaret/Views/HomeDeneme/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZURlbmVtZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/erenay/Desktop/E-Ticaret/E-Ticaret/E-Ticaret/Views/Home/Index.cshtml]
@@ -74,6 +102,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/erenay/Desktop/E-Ticaret/E-Ticaret/E-Ticaret/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erenay/Desktop/E-Ticaret/E-Ticaret/E-Ticaret/Views/Shared/Components/ProductOverView/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZHVjdE92ZXJWaWV3XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/erenay/Desktop/E-Ticaret/E-Ticaret/E-Ticaret/Views/Shared/Error.cshtml]

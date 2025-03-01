@@ -7517,196 +7517,1160 @@
       "PackagePath": "staticwebassets\\Admin\\vendor\\jquery\\jquery.slim.min.map"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\css\\animate.min.css",
-      "PackagePath": "staticwebassets\\Home\\css\\animate.min.css"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home2\\about.html",
+      "PackagePath": "staticwebassets\\Home2\\about.html"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\Home\\css\\bootstrap.css"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home2\\contact.html",
+      "PackagePath": "staticwebassets\\Home2\\contact.html"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\css\\jquery-ui.css",
-      "PackagePath": "staticwebassets\\Home\\css\\jquery-ui.css"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home2\\css\\styles.css",
+      "PackagePath": "staticwebassets\\Home2\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\css\\jquery.mCustomScrollbar.min.css",
-      "PackagePath": "staticwebassets\\Home\\css\\jquery.mCustomScrollbar.min.css"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home2\\img\\banner.jpg",
+      "PackagePath": "staticwebassets\\Home2\\img\\banner.jpg"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\css\\meanmenu.css",
-      "PackagePath": "staticwebassets\\Home\\css\\meanmenu.css"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home2\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Home2\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\css\\nice-select.css",
-      "PackagePath": "staticwebassets\\Home\\css\\nice-select.css"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home2\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Home2\\img\\product-1.jpg"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\css\\normalize.css",
-      "PackagePath": "staticwebassets\\Home\\css\\normalize.css"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home2\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Home2\\img\\product-2.jpg"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\css\\owl.carousel.min.css",
-      "PackagePath": "staticwebassets\\Home\\css\\owl.carousel.min.css"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home2\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Home2\\img\\product-3.jpg"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\css\\responsive.css",
-      "PackagePath": "staticwebassets\\Home\\css\\responsive.css"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home2\\img\\product-4.jpeg",
+      "PackagePath": "staticwebassets\\Home2\\img\\product-4.jpeg"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\css\\slick.css",
-      "PackagePath": "staticwebassets\\Home\\css\\slick.css"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home2\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\Home2\\img\\product-5.jpg"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\css\\style.css",
-      "PackagePath": "staticwebassets\\Home\\css\\style.css"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home2\\index.html",
+      "PackagePath": "staticwebassets\\Home2\\index.html"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\1.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\1.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home2\\js\\script.js",
+      "PackagePath": "staticwebassets\\Home2\\js\\script.js"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\2.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\2.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home2\\products.html",
+      "PackagePath": "staticwebassets\\Home2\\products.html"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\3.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\3.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\.gitattributes",
+      "PackagePath": "staticwebassets\\Home\\.gitattributes"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\5.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\5.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\about.html",
+      "PackagePath": "staticwebassets\\Home\\about.html"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\6.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\6.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\blog-detail.html",
+      "PackagePath": "staticwebassets\\Home\\blog-detail.html"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\call.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\call.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\blog.html",
+      "PackagePath": "staticwebassets\\Home\\blog.html"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\email.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\email.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\contact.html",
+      "PackagePath": "staticwebassets\\Home\\contact.html"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\j1.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\j1.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\css\\main.css",
+      "PackagePath": "staticwebassets\\Home\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\j2.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\j2.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\css\\util.css",
+      "PackagePath": "staticwebassets\\Home\\css\\util.css"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\j3.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\j3.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-Black.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\j4.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\j4.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\k1.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\k1.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\loc.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\loc.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\p1.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\p1.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\p2.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\p2.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\p4.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\p4.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\s1.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\s1.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\s2.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\s2.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-Italic.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\s3.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\s3.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-Light.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\icon\\s4.png",
-      "PackagePath": "staticwebassets\\Home\\icon\\s4.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-LightItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\bg_main.jpg",
-      "PackagePath": "staticwebassets\\Home\\images\\bg_main.jpg"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\cap.png",
-      "PackagePath": "staticwebassets\\Home\\images\\cap.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\crros.png",
-      "PackagePath": "staticwebassets\\Home\\images\\crros.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\loading.gif",
-      "PackagePath": "staticwebassets\\Home\\images\\loading.gif"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-SemiBold.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\logo.png",
-      "PackagePath": "staticwebassets\\Home\\images\\logo.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\logo1.png",
-      "PackagePath": "staticwebassets\\Home\\images\\logo1.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-Thin.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\maps-and-flags.png",
-      "PackagePath": "staticwebassets\\Home\\images\\maps-and-flags.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\menu_icon.png",
-      "PackagePath": "staticwebassets\\Home\\images\\menu_icon.png"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Montserrat\\OFL.txt"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\save_bg.jpg",
-      "PackagePath": "staticwebassets\\Home\\images\\save_bg.jpg"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\PlayfairDisplay\\OFL.txt",
+      "PackagePath": "staticwebassets\\Home\\fonts\\PlayfairDisplay\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\Poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\Poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Home\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\Home\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\Home\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\Home\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\Home\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\Home\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\Home\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\Home\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\Home\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\Home\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\Home\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\Home\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\fonts\\linearicons-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\Home\\fonts\\linearicons-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\home-02.html",
+      "PackagePath": "staticwebassets\\Home\\home-02.html"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\home-03.html",
+      "PackagePath": "staticwebassets\\Home\\home-03.html"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\about-01.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\about-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\about-02.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\about-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\avatar-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\banner-01.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\banner-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\banner-02.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\banner-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\banner-03.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\banner-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\banner-04.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\banner-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\banner-05.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\banner-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\banner-06.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\banner-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\banner-07.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\banner-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\banner-08.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\banner-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\banner-09.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\banner-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\bg-02.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\bg-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\blog-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\blog-02.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\blog-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\blog-03.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\blog-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\blog-04.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\blog-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\blog-05.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\blog-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\blog-06.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\blog-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\gallery-01.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\gallery-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\gallery-02.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\gallery-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\gallery-03.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\gallery-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\gallery-04.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\gallery-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\gallery-05.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\gallery-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\gallery-06.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\gallery-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\gallery-07.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\gallery-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\gallery-08.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\gallery-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\gallery-09.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\gallery-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\icon-close.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\icon-close.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\icon-close2.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\icon-close2.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\icon-email.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\icon-email.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\icon-heart-01.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\icon-heart-01.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\icon-heart-02.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\icon-heart-02.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\icon-next.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\icon-next.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\icon-pay-01.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\icon-pay-01.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\icon-pay-02.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\icon-pay-02.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\icon-pay-03.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\icon-pay-03.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\icon-pay-04.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\icon-pay-04.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\icon-pay-05.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\icon-pay-05.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\icon-prev.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\icon-prev.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\logo-01.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\logo-01.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\logo-02.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\logo-02.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\icons\\pin.png",
+      "PackagePath": "staticwebassets\\Home\\images\\icons\\pin.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\item-cart-01.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\item-cart-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\item-cart-02.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\item-cart-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\item-cart-03.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\item-cart-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\item-cart-04.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\item-cart-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\item-cart-05.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\item-cart-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-01.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-02.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-03.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-04.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-05.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-06.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-07.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-08.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-09.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-10.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-11.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-12.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-13.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-14.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-15.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-16.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-detail-01.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-detail-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-detail-02.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-detail-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-detail-03.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-detail-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-min-01.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-min-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-min-02.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-min-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\product-min-03.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\product-min-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\slide-01.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slide-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\slide-02.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slide-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\slide-03.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slide-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\slide-04.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slide-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\slide-05.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slide-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\slide-06.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slide-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\slide-07.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\slide-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\thumb-01.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\thumb-02.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\thumb-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\images\\thumb-03.jpg",
+      "PackagePath": "staticwebassets\\Home\\images\\thumb-03.jpg"
     },
     {
       "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\index.html",
       "PackagePath": "staticwebassets\\Home\\index.html"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\Home\\js\\bootstrap.bundle.min.js"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\js\\main.js",
+      "PackagePath": "staticwebassets\\Home\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\js\\custom.js",
-      "PackagePath": "staticwebassets\\Home\\js\\custom.js"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\js\\map-custom.js",
+      "PackagePath": "staticwebassets\\Home\\js\\map-custom.js"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\js\\jquery-3.0.0.min.js",
-      "PackagePath": "staticwebassets\\Home\\js\\jquery-3.0.0.min.js"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\js\\slick-custom.js",
+      "PackagePath": "staticwebassets\\Home\\js\\slick-custom.js"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\js\\jquery.mCustomScrollbar.concat.min.js",
-      "PackagePath": "staticwebassets\\Home\\js\\jquery.mCustomScrollbar.concat.min.js"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\product-detail.html",
+      "PackagePath": "staticwebassets\\Home\\product-detail.html"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\js\\jquery.min.js",
-      "PackagePath": "staticwebassets\\Home\\js\\jquery.min.js"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\product.html",
+      "PackagePath": "staticwebassets\\Home\\product.html"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\js\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\Home\\js\\jquery.validate.js"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\shoping-cart.html",
+      "PackagePath": "staticwebassets\\Home\\shoping-cart.html"
     },
     {
-      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\js\\popper.min.js",
-      "PackagePath": "staticwebassets\\Home\\js\\popper.min.js"
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\MagnificPopup\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\MagnificPopup\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\MagnificPopup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\MagnificPopup\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\index.html",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\jqueryui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\jqueryui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\lightbox2\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\lightbox2\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\lightbox2\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\lightbox2\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\lightbox2\\images\\close.png",
+      "PackagePath": "staticwebassets\\Home\\vendor\\lightbox2\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\lightbox2\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\Home\\vendor\\lightbox2\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\lightbox2\\images\\next.png",
+      "PackagePath": "staticwebassets\\Home\\vendor\\lightbox2\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\lightbox2\\images\\prev.png",
+      "PackagePath": "staticwebassets\\Home\\vendor\\lightbox2\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\Home\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\lightbox2\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\lightbox2\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\lightbox2\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\lightbox2\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\lightbox2\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\Home\\vendor\\lightbox2\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\parallax100\\parallax100.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\parallax100\\parallax100.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Home\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\Home\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\Home\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\Home\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\Home\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\Home\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\Home\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\Home\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\Home\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\Home\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\Home\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\Home\\vendor\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\Home\\vendor\\sweetalert\\sweetalert.min.js"
     },
     {
       "Id": "C:\\Users\\erenay\\Desktop\\E-Ticaret\\E-Ticaret\\E-Ticaret\\wwwroot\\css\\site.css",

@@ -1,0 +1,70 @@
+﻿@page
+@model E_Ticaret.Pages.IndexModel
+@{
+    ViewData["Title"] = "Ana Sayfa - VAGO Collection";
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <partial name="_Navbar" />
+
+    <!-- Ana Banner -->
+    <header class="banner">
+        <div class="container text-center text-white">
+            <h1>VAGO Collection</h1>
+            <p>Minimalist ve şık tasarımlar</p>
+            <a href="products" class="btn btn-dark mt-3">Alışverişe Başla</a>
+        </div>
+    </header>
+
+    <!-- Ürünler -->
+    <section class="products container mt-5">
+        <h2 class="text-center mb-4">Popüler Ürünler</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="~/img/product-1.jpg" class="card-img-top" alt="Çanta 1">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Vago Tote Çanta</h5>
+                        <p class="card-text">₺499,99</p>
+                        <a href="products" class="btn btn-dark">Satın Al</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="~/img/product-2.jpg" class="card-img-top" alt="Çanta 2">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Klasik Omuz Çantası</h5>
+                        <p class="card-text">₺399,99</p>
+                        <a href="products" class="btn btn-dark">Satın Al</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="~/img/product-3.jpg" class="card-img-top" alt="Çanta 3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">Şık Deri Çanta</h5>
+                        <p class="card-text">₺599,99</p>
+                        <a href="products" class="btn btn-dark">Satın Al</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <partial name="_Footer" />
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/script.js"></script>
+</body>
+</html>
