@@ -6,9 +6,12 @@ namespace E_Ticaret.Models
     {
         [Key]
         public int CategoryId { get; set; }
-        public string? CategoryName { get; set; }
 
-        virtual public List<Products> Products { get; set; } // kategori tablosu ile ürün tablosu arasında ilişki kurulur.
+        [Required(ErrorMessage = "Category Name is required")]
+        public string? CategoryName { get; set; } = string.Empty;
 
+        public virtual List<Products>? Products { get; set; } = new List<Products>(); // kategori tablosu ile ürün tablosu arasında ilişki kurulur.
     }
 }
+
+
