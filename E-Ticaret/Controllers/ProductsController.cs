@@ -168,6 +168,7 @@ namespace E_Ticaret.Controllers
                 }
             }
 
+
             if (ModelState.IsValid)
             {
                 try
@@ -238,6 +239,7 @@ namespace E_Ticaret.Controllers
                         yolFile.Delete();
                     }
                 }
+                //Dosya silme
             }
 
             await _context.SaveChangesAsync();
