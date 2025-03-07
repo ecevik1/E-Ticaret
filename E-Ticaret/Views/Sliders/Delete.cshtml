@@ -2,7 +2,7 @@
 
 @{
     ViewData["Title"] = "Delete";
-    Layout = "~/Views/Shared/_HomeLayout.cshtml";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
 <h1>Delete</h1>
@@ -49,10 +49,12 @@
             @Html.DisplayFor(model => model.SliderImage)
         </dd>
     </dl>
-    
+
     <form asp-action="Delete">
         <input type="hidden" asp-for="SliderId" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
+        <div class="d-flex">
+            <input type="submit" value="Delete" class="btn btn-danger me-2" />
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
     </form>
 </div>
