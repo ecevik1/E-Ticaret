@@ -22,13 +22,19 @@ namespace E_Ticaret.Controllers
         // GET: Sliders
         public async Task<IActionResult> Index()
         {
+            // _context.Slider null olup olmadığını kontrol ediyoruz.
+            if (_context.Slider == null)
+            {
+                return Problem("Entity set 'ApplicationDbContext.Slider' is null."); // null olması durumunda hata mesajı döndürür.
+            }
             return View(await _context.Slider.ToListAsync());
         }
 
         // GET: Sliders/Details/5
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null)
+            // id veya _context.Slider null olup olmadığını kontrol ediyoruz.
+            if (id == null || _context.Slider == null)
             {
                 return NotFound();
             }
@@ -50,12 +56,36 @@ namespace E_Ticaret.Controllers
         }
 
         // POST: Sliders/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        // Overposting saldırılarına karşı koruma sağlamak için, bağlamak istediğiniz belirli özellikleri etkinleştirin.
+        // Daha fazla bilgi için http://go.microsoft.com/fwlink/?LinkId=317598 adresine bakın.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("SliderId,SliderName,Header1,Header2,SliderContext,SliderDescription,SliderImage")] Slider slider)
+        public async Task<IActionResult> Create([Bind("SliderId,SliderName,Header1,Header2,SliderContext,SliderDescription,SliderImage")] Slider slider, IFormFile ImageUpload)
         {
+            if (ImageUpload != null)
+            {
+                string uzanti = Path.GetExtension(ImageUpload.FileName);
+                string yeniisim = Guid.NewGuid().ToString() + uzanti; // Benzersiz bir isim oluşturur.
+                string klasorYolu = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Sliders"); // Klasör yolu oluşturulur.
+                string dosyaYolu = Path.Combine(klasorYolu, yeniisim); // Dosya yolu oluşturulur.
+
+                if (!Directory.Exists(klasorYolu))
+                {
+                    Directory.CreateDirectory(klasorYolu);
+                }
+
+                using (var stream = new FileStream(dosyaYolu, FileMode.Create))
+                {
+                    await ImageUpload.CopyToAsync(stream);
+                }
+
+                slider.SliderImage = yeniisim; // Dosya adı atanır.
+            }
+            else
+            {
+                slider.SliderImage = "?"; // Görsel yüklenmediğinde varsayılan değer.
+            }
+
             if (ModelState.IsValid)
             {
                 _context.Add(slider);
@@ -68,7 +98,8 @@ namespace E_Ticaret.Controllers
         // GET: Sliders/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
-            if (id == null)
+            // id veya _context.Slider null olup olmadığını kontrol ediyoruz.
+            if (id == null || _context.Slider == null)
             {
                 return NotFound();
             }
@@ -82,15 +113,36 @@ namespace E_Ticaret.Controllers
         }
 
         // POST: Sliders/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        // Overposting saldırılarına karşı koruma sağlamak için, bağlamak istediğiniz belirli özellikleri etkinleştirin.
+        // Daha fazla bilgi için http://go.microsoft.com/fwlink/?LinkId=317598 adresine bakın.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("SliderId,SliderName,Header1,Header2,SliderContext,SliderDescription,SliderImage")] Slider slider)
+        public async Task<IActionResult> Edit(int id, [Bind("SliderId,SliderName,Header1,Header2,SliderContext,SliderDescription,SliderImage")] Slider slider, IFormFile ImageUpload)
         {
             if (id != slider.SliderId)
             {
                 return NotFound();
+            }
+
+            if (ImageUpload != null)
+            {
+                string uzanti = Path.GetExtension(ImageUpload.FileName);
+                string yeniisim = Guid.NewGuid().ToString() + uzanti; // Benzersiz bir isim oluşturur.
+                string klasorYolu = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Sliders"); // Klasör yolu oluşturulur.
+                string dosyaYolu = Path.Combine(klasorYolu, yeniisim); // Dosya yolu oluşturulur.
+                if (!Directory.Exists(klasorYolu))
+                {
+                    Directory.CreateDirectory(klasorYolu);
+                }
+                using (var stream = new FileStream(dosyaYolu, FileMode.Create))
+                {
+                    await ImageUpload.CopyToAsync(stream);
+                }
+                slider.SliderImage = yeniisim; // Dosya adı atanır.
+            }
+            else
+            {
+                slider.SliderImage = "?"; // Görsel yüklenmediğinde varsayılan değer.
             }
 
             if (ModelState.IsValid)
@@ -119,7 +171,8 @@ namespace E_Ticaret.Controllers
         // GET: Sliders/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
-            if (id == null)
+            // id veya _context.Slider null olup olmadığını kontrol ediyoruz.
+            if (id == null || _context.Slider == null)
             {
                 return NotFound();
             }
@@ -139,9 +192,26 @@ namespace E_Ticaret.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
+            // _context.Slider null olup olmadığını kontrol ediyoruz.
+            if (_context.Slider == null)
+            {
+                return NotFound();
+            }
             var slider = await _context.Slider.FindAsync(id);
             if (slider != null)
             {
+                // Dosya silme
+                if (!string.IsNullOrEmpty(slider.SliderImage))
+                {
+                    string yol = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Sliders", slider.SliderImage);
+                    FileInfo yolFile = new FileInfo(yol);
+                    if (yolFile.Exists)
+                    {
+                        System.IO.File.Delete(yolFile.FullName);
+                        yolFile.Delete();
+                    }
+                }
+                // Dosya silme
                 _context.Slider.Remove(slider);
             }
 
@@ -151,6 +221,11 @@ namespace E_Ticaret.Controllers
 
         private bool SliderExists(int id)
         {
+            // _context.Slider null olup olmadığını kontrol ediyoruz.
+            if (_context.Slider == null)
+            {
+                return false;
+            }
             return _context.Slider.Any(e => e.SliderId == id);
         }
     }
