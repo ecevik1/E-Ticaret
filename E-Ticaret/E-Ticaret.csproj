@@ -30,6 +30,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\Home\" />
+    <Folder Include="wwwroot\Sliders\" />
     <Folder Include="wwwroot\Urunler\" />
   </ItemGroup>
 
