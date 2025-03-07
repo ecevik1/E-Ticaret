@@ -40104,6 +40104,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Sliders\3dd350fc-df27-4e84-afe2-af0cc2f4e8f4.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>E-Ticaret</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/E-Ticaret</BasePath>
+      <RelativePath>Sliders/3dd350fc-df27-4e84-afe2-af0cc2f4e8f4.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dgksmdy9s2</Fingerprint>
+      <Integrity>jeDWB8hDZZsOs6+2tINxl4Rqg8DUa908eIK/l0T5p+k=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Sliders\3dd350fc-df27-4e84-afe2-af0cc2f4e8f4.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Sliders\47d49ff8-008a-4d89-899e-3ac028769b50.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>E-Ticaret</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/E-Ticaret</BasePath>
+      <RelativePath>Sliders/47d49ff8-008a-4d89-899e-3ac028769b50.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dgksmdy9s2</Fingerprint>
+      <Integrity>jeDWB8hDZZsOs6+2tINxl4Rqg8DUa908eIK/l0T5p+k=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Sliders\47d49ff8-008a-4d89-899e-3ac028769b50.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Urunler\38ece753-0bdb-4162-85d8-d9a571ee9041.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>E-Ticaret</SourceId>

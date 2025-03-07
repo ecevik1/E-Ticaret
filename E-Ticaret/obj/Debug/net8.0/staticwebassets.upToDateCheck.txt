@@ -2225,6 +2225,8 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\Sliders\3dd350fc-df27-4e84-afe2-af0cc2f4e8f4.jpg
+wwwroot\Sliders\47d49ff8-008a-4d89-899e-3ac028769b50.jpg
 wwwroot\Urunler\38ece753-0bdb-4162-85d8-d9a571ee9041.jpg
 wwwroot\Urunler\4944c736-6c7c-4839-8a30-190b098368e2.jpg
 wwwroot\Urunler\4c23d2af-d528-426c-9e4f-2afb01b99ff2.jpg
