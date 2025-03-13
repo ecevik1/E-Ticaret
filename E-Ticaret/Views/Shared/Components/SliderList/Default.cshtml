@@ -1,0 +1,45 @@
+﻿@model List<E_Ticaret.Models.Slider>
+
+<section class="section-slide">
+    <div class="wrap-slick1">
+        <div class="slick1">
+            @* Modelin null olup olmadığını ve herhangi bir slider olup olmadığını kontrol ediyoruz *@
+            @if (Model == null || !Model.Any())
+            {
+                <p>No sliders available.</p>
+            }
+            else
+            {
+                @* Modeldeki her bir slider için döngü oluşturuyoruz *@
+                @foreach (var slider in Model)
+                {
+                    @* Her bir slider için HTML oluşturuyoruz ve arka plan resmini modelden alıyoruz *@
+                    <div class="item-slick1" style="background-image: url(@Url.Content("~/Sliders/" + slider.SliderImage));">
+                        <div class="container h-full">
+                            <div class="flex-col-l-m h-full p-t-100 p-b-30 respon5">
+                                <div class="layer-slick1 animated visible-false" data-appear="fadeInDown" data-delay="0">
+                                    <span class="ltext-101 cl2 respon2">
+                                        @slider.Header1 @* Slider'ın Header1 özelliğini gösteriyoruz *@
+                                    </span>
+                                </div>
+
+                                <div class="layer-slick1 animated visible-false" data-appear="fadeInUp" data-delay="800">
+                                    <h2 class="ltext-201 cl2 p-t-19 p-b-43 respon1">
+                                        @slider.Header2 @* Slider'ın Header2 özelliğini gösteriyoruz *@
+                                    </h2>
+                                </div>
+
+                                <div class="layer-slick1 animated visible-false" data-appear="zoomIn" data-delay="1600">
+                                    <a href="product.html" class="flex-c-m stext-101 cl0 size-101 bg1 bor1 hov-btn1 p-lr-15 trans-04">
+                                        Shop Now @* "Shop Now" butonunu gösteriyoruz *@
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</section>
+
