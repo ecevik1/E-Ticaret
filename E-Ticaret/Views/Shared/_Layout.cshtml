@@ -242,7 +242,8 @@
 	</header>
 
 	<!-- Cart -->
-	<div class="wrap-header-cart js-panel-cart">
+	<!-- 
+		<div class="wrap-header-cart js-panel-cart">
 		<div class="s-full js-hide-cart"></div>
 
 		<div class="header-cart flex-col-l p-l-65 p-r-25">
@@ -325,6 +326,9 @@
 			</div>
 		</div>
 	</div>
+	-->
+	
+	@await Component.InvokeAsync("CartSumList")
 
 	
 
@@ -413,6 +417,8 @@
 	<!-- Slider -->
 	@await Component.InvokeAsync("SliderList")
 
+	<!-- Product Overview -->
+	@await Component.InvokeAsync("ProductOverview")
 	<!-- Banner -->
 	<div class="sec-banner bg0 p-t-80 p-b-50">
 		<div class="container">
