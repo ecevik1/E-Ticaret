@@ -35,7 +35,7 @@ namespace E_Ticaret.Component
         }
 
         // Sepete ürün eklemek için kullanılan eylem metodu
-        public async Task<IActionResult> Add(long id)
+        public async Task<IActionResult> Add(int id)
         {
             // Ürünü veritabanından alır
             Products product = await _context.Products.FindAsync(id);
@@ -68,7 +68,7 @@ namespace E_Ticaret.Component
         }
 
         // Sepetten ürün miktarını azaltmak için kullanılan eylem metodu
-        public async Task<IActionResult> Decrease(long id)
+        public async Task<IActionResult> Decrease(int id)
         {
             // Ürünü veritabanından alır
             Products product = await _context.Products.FindAsync(id);
@@ -99,7 +99,7 @@ namespace E_Ticaret.Component
             return RedirectToAction("Index");
         }
 
-        public async Task<IActionResult> Remove(long id)
+        public async Task<IActionResult> Remove(int id)
         {
             List<CartItems> cart = HttpContext.Session.GetJson<List<CartItems>>("Cart");
             cart.RemoveAll(c => c.ProductId == id);
