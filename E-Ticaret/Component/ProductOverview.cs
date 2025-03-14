@@ -5,11 +5,11 @@ namespace E_Ticaret.Component.ProductOverview
 {
     public class ProductOverview : ViewComponent
     {
-        private readonly ApplicationDbContext _context ;
+        private readonly ApplicationDbContext _context;
 
         public ProductOverview(ApplicationDbContext context)
         {
-            context = _context;
+            _context = context; // Bu satır düzeltildi
         }
 
         public IViewComponentResult Invoke()
