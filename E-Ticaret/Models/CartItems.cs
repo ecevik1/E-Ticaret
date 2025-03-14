@@ -3,7 +3,7 @@
     public class CartItems
     {
         // Ürünün kimliğini tutar
-        public long ProductId { get; set; }
+        public int ProductId { get; set; }
 
         // Ürünün adını tutar
         public string ProductName { get; set; }
