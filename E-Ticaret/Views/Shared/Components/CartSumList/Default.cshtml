@@ -6,7 +6,7 @@
     <div class="header-cart flex-col-l p-l-65 p-r-25">
         <div class="header-cart-title flex-w flex-sb-m p-b-8">
             <span class="mtext-103 cl2">
-                Your Cart
+                Sepetiniz
             </span>
 
             <div class="fs-35 lh-10 cl2 p-lr-5 pointer hov-cl1 trans-04 js-hide-cart">
@@ -31,6 +31,16 @@
                             <span class="header-cart-item-info">
                                 @item.Quantity x @item.Price.ToString("C")
                             </span>
+
+                            <div class="cart-controls">
+                                <a href="/Cart/Add?id=@item.ProductId" class="btn btn-sm btn-success">+</a>
+                                <span>@item.Quantity</span>
+                                <a href="/Cart/Decrease?id=@item.ProductId" class="btn btn-sm btn-warning">-</a>
+
+                                <a href="/Cart/Remove?id=@item.ProductId" class="btn btn-sm btn-danger">
+                                    <i class="zmdi zmdi-delete"></i>
+                                </a>
+                            </div>
                         </div>
                     </li>
                 }
@@ -38,16 +48,16 @@
 
             <div class="w-full">
                 <div class="header-cart-total w-full p-tb-40">
-                    Total: @Model.TotalPrice.ToString("C")
+                    Toplam: @Model.TotalPrice.ToString("C")
                 </div>
 
                 <div class="header-cart-buttons flex-w w-full">
-                    <a href="/Cart" class="flex-c-m stext-101 cl0 size-107 bg3 bor2 hov-btn3 p-lr-15 trans-04 m-r-8 m-b-10">
-                        View Cart
+                    <a href="/Cart/Index" class="flex-c-m stext-101 cl0 size-107 bg3 bor2 hov-btn3 p-lr-15 trans-04 m-r-8 m-b-10">
+                        Sepeti Görüntüle
                     </a>
 
-                    <a href="/Checkout" class="flex-c-m stext-101 cl0 size-107 bg3 bor2 hov-btn3 p-lr-15 trans-04 m-b-10">
-                        Check Out
+                    <a href="/Cart/Clear" class="flex-c-m stext-101 cl0 size-107 bg-danger bor2 hov-btn3 p-lr-15 trans-04 m-r-8 m-b-10">
+                        Sepeti Temizle
                     </a>
                 </div>
             </div>

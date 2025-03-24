@@ -99,7 +99,9 @@ namespace E_Ticaret.Component
             return RedirectToAction("Index");
         }
 
-        public async Task<IActionResult> Remove(int id)
+        // Sepetten ürün kaldırmak için kullanılan eylem metodu
+        [HttpPost]
+        public IActionResult Remove(int id)
         {
             List<CartItems> cart = HttpContext.Session.GetJson<List<CartItems>>("Cart");
             cart.RemoveAll(c => c.ProductId == id);
@@ -112,11 +114,48 @@ namespace E_Ticaret.Component
             {
                 HttpContext.Session.SetJson("Cart", cart);
             }
-            TempData["message"] = "Ürün Sepeti Silinmiştir";
+            TempData["message"] = "Ürün Sepetten Silinmiştir";
             return RedirectToAction("Index");
         }
 
-        public async Task<IActionResult> Clear()
+        // Sepeti güncellemek için kullanılan eylem metodu
+        [HttpPost]
+        public IActionResult UpdateCart(Dictionary<int, int> quantities)
+        {
+            List<CartItems> cart = HttpContext.Session.GetJson<List<CartItems>>("Cart") ?? new List<CartItems>();
+
+            foreach (var item in cart)
+            {
+                if (quantities.TryGetValue(item.ProductId, out int quantity))
+                {
+                    item.Quantity = quantity;
+                }
+            }
+
+            HttpContext.Session.SetJson("Cart", cart);
+            TempData["message"] = "Sepet Güncellenmiştir";
+            return RedirectToAction("Index");
+        }
+
+        // Ürün miktarını güncellemek için kullanılan eylem metodu
+        [HttpPost]
+        public IActionResult UpdateQuantity(int productId, int quantity)
+        {
+            List<CartItems> cart = HttpContext.Session.GetJson<List<CartItems>>("Cart") ?? new List<CartItems>();
+
+            var item = cart.FirstOrDefault(c => c.ProductId == productId);
+            if (item != null)
+            {
+                item.Quantity = quantity;
+                HttpContext.Session.SetJson("Cart", cart);
+                TempData["message"] = "Ürün Miktarı Güncellenmiştir";
+            }
+
+            return RedirectToAction("Index");
+        }
+
+        // Sepeti temizlemek için kullanılan eylem metodu
+        public IActionResult Clear()
         {
             HttpContext.Session.Remove("Cart");
             TempData["message"] = "Sepet Temizlenmiştir";
@@ -124,26 +163,3 @@ namespace E_Ticaret.Component
         }
     }
 }
-
-/*
- * Açıklamalar:
-•	private readonly ApplicationDbContext _context;: Veritabanı bağlamını tutar.
-•	public CartController(ApplicationDbContext dbContext): Yapıcı metot, veritabanı bağlamını alır ve _context alanına atar.
-•	public IActionResult Index(): Sepet sayfasını görüntülemek için kullanılan eylem metodu.
-•	List<CartItems> items = HttpContext.Session.GetJson<List<CartItems>>("cart") ?? new List<CartItems>();: Oturumdan sepet verilerini alır, eğer sepet boşsa yeni bir liste oluşturur.
-•	CartViewModel cartvm = new CartViewModel: CartViewModel nesnesi oluşturur ve sepet öğelerini ve toplam fiyatı atar.
-•	return View(cartvm);: Sepet görünümünü döner ve CartViewModel'i görünümle birlikte gönderir.
-•	public async Task<IActionResult> Add(long id): Sepete ürün eklemek için kullanılan eylem metodu.
-•	Products product = await _context.Products.FindAsync(id);: Ürünü veritabanından alır.
-•	List<CartItems> items = HttpContext.Session.GetJson<List<CartItems>>("Cart") ?? new List<CartItems>();: Oturumdan sepet verilerini alır, eğer sepet boşsa yeni bir liste oluşturur.
-•	CartItems cartItem = items.FirstOrDefault(i => i.ProductId == id);: Sepette aynı ürün varsa miktarını artırır.
-•	HttpContext.Session.SetJson("Cart", items);: Sepet verilerini oturuma yazar.
-•	TempData["message"] = $"{product.ProductName} Sepete Eklenmiştir";: Ürün sepete eklendiğinde mesaj gösterir.
-•	return Redirect(Request.Headers["Referer"].ToString());: Sepet sayfasına yönlendirir.
-•	public async Task<IActionResult> Decrease(long id): Sepetten ürün miktarını azaltmak için kullanılan eylem metodu.
-•	List<CartItems> cart = HttpContext.Session.GetJson<List<CartItems>>("Cart") ?? new List<CartItems>();: Oturumdan sepet verilerini alır, eğer sepet boşsa yeni bir liste oluşturur.
-•	CartItems cartItem = cart.FirstOrDefault(c => c.ProductId == id);: Sepette aynı ürün varsa miktarını azaltır.
-•	HttpContext.Session.SetJson("Cart", cart);: Sepet verilerini oturuma yazar.
-•	TempData["message"] = $"{product.ProductName} Sepetten Çıkarılmıştır";: Ürün sepetten çıkarıldığında mesaj gösterir.
-•	return RedirectToAction("Index");: Sepet sayfasına yönlendirir.
-*/

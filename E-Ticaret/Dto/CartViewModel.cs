@@ -9,6 +9,7 @@ namespace E_Ticaret.Dto
 
         // Sepetin toplam fiyatını tutar
         public decimal TotalPrice { get; set; }
+        public int TotalItemCount => CartItems?.Sum(item => item.Quantity) ?? 0;
     }
 }
 
